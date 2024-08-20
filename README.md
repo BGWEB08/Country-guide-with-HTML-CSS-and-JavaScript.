@@ -27,6 +27,5 @@ This project is a simple Country Guide application that displays basic informati
 
 ## Demo
 
-![Country Guide Image](https://github.com/YourUsername/YourRepoName/raw/main/images/country-guide-demo.png)
+![Country Guide Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Country%20Guide/countryguide-img.png?raw=true)
 
-Translated with DeepL.com (free version)
